@@ -430,10 +430,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/WolfooSucks123">
+      <a href="https://github.com/darik9pl">
         <img src="https://avatars.githubusercontent.com/u/114980083?v=4" width="50" />
         <br />
-        WolfooSucks123
+        darik9pl
       </a>
     </td>
     <td width="150" align="center">
