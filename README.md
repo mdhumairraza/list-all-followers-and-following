@@ -20,17 +20,17 @@
 <table>
   <tr>
     <td width="150" align="center">
+      <a href="https://github.com/LaraJonsie">
+        <img src="https://avatars.githubusercontent.com/u/134558382?v=4" width="50" />
+        <br />
+        LaraJonsie
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/AverageSuccess">
         <img src="https://avatars.githubusercontent.com/u/134276567?v=4" width="50" />
         <br />
         AverageSuccess
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/katya0612">
-        <img src="https://avatars.githubusercontent.com/u/133203741?v=4" width="50" />
-        <br />
-        katya0612
       </a>
     </td>
     <td width="150" align="center">
@@ -185,10 +185,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/richardrobertov">
+      <a href="https://github.com/stalk0">
         <img src="https://avatars.githubusercontent.com/u/123779099?v=4" width="50" />
         <br />
-        richardrobertov
+        stalk0
       </a>
     </td>
     <td width="150" align="center">
@@ -221,10 +221,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/bl4ckh47G1rl">
+      <a href="https://github.com/V1nni00">
         <img src="https://avatars.githubusercontent.com/u/122740951?v=4" width="50" />
         <br />
-        bl4ckh47G1rl
+        V1nni00
       </a>
     </td>
     <td width="150" align="center">
