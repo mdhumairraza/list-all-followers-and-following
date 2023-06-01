@@ -1524,10 +1524,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/maksyaremko">
+      <a href="https://github.com/Fanatic-1211">
         <img src="https://avatars.githubusercontent.com/u/92348275?v=4" width="50" />
         <br />
-        maksyaremko
+        Fanatic-1211
       </a>
     </td>
   </tr><tr>
