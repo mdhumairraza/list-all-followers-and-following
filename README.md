@@ -2194,13 +2194,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/RISHIKREDDYL">
-        <img src="https://avatars.githubusercontent.com/u/36101925?v=4" width="50" />
-        <br />
-        RISHIKREDDYL
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/ProjectPannonia">
         <img src="https://avatars.githubusercontent.com/u/35657485?v=4" width="50" />
         <br />
@@ -2212,6 +2205,13 @@
         <img src="https://avatars.githubusercontent.com/u/34787409?v=4" width="50" />
         <br />
         Yuho1985
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/andispeed">
+        <img src="https://avatars.githubusercontent.com/u/33788293?v=4" width="50" />
+        <br />
+        andispeed
       </a>
     </td>
   </tr><tr>
