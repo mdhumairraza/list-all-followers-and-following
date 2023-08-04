@@ -27,17 +27,17 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/dominayo">
+        <img src="https://avatars.githubusercontent.com/u/135840180?v=4" width="50" />
+        <br />
+        dominayo
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Emptyme21">
         <img src="https://avatars.githubusercontent.com/u/134341739?v=4" width="50" />
         <br />
         Emptyme21
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/onetechwolf">
-        <img src="https://avatars.githubusercontent.com/u/132420995?v=4" width="50" />
-        <br />
-        onetechwolf
       </a>
     </td>
     <td width="150" align="center">
