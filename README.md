@@ -372,10 +372,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Jupyter0323">
+      <a href="https://github.com/CodeChamp1011">
         <img src="https://avatars.githubusercontent.com/u/118969321?v=4" width="50" />
         <br />
-        Jupyter0323
+        CodeChamp1011
       </a>
     </td>
   </tr><tr>
