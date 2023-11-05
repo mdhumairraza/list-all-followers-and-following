@@ -1035,10 +1035,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Im-vishalanand">
+      <a href="https://github.com/im-vishalanand">
         <img src="https://avatars.githubusercontent.com/u/108060013?v=4" width="50" />
         <br />
-        Im-vishalanand
+        im-vishalanand
       </a>
     </td>
     <td width="150" align="center">
@@ -3556,10 +3556,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Im-vishalanand">
+      <a href="https://github.com/im-vishalanand">
         <img src="https://avatars.githubusercontent.com/u/108060013?v=4" width="50" />
         <br />
-        Im-vishalanand
+        im-vishalanand
       </a>
     </td>
     <td width="150" align="center">
