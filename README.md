@@ -20,10 +20,10 @@
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/codeWizard337">
-        <img src="https://avatars.githubusercontent.com/u/151155288?v=4" width="50" />
+      <a href="https://github.com/expertcoder1204">
+        <img src="https://avatars.githubusercontent.com/u/150538742?v=4" width="50" />
         <br />
-        codeWizard337
+        expertcoder1204
       </a>
     </td>
     <td width="150" align="center">
