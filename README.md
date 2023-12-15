@@ -3081,10 +3081,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/teqbaddie">
+      <a href="https://github.com/techbaddey">
         <img src="https://avatars.githubusercontent.com/u/74302397?v=4" width="50" />
         <br />
-        teqbaddie
+        techbaddey
       </a>
     </td>
     <td width="150" align="center">
