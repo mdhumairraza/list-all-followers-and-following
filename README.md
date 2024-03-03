@@ -3191,10 +3191,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/jei-banares">
+      <a href="https://github.com/jade-banares">
         <img src="https://avatars.githubusercontent.com/u/83527821?v=4" width="50" />
         <br />
-        jei-banares
+        jade-banares
       </a>
     </td>
     <td width="150" align="center">
