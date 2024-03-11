@@ -20,6 +20,13 @@
 <table>
   <tr>
     <td width="150" align="center">
+      <a href="https://github.com/shafiqul677">
+        <img src="https://avatars.githubusercontent.com/u/162604264?v=4" width="50" />
+        <br />
+        shafiqul677
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/AboutEdsonAguiar">
         <img src="https://avatars.githubusercontent.com/u/161041221?v=4" width="50" />
         <br />
@@ -47,6 +54,7 @@
         warmice71
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/saitomizuki111">
         <img src="https://avatars.githubusercontent.com/u/136369113?v=4" width="50" />
@@ -54,7 +62,6 @@
         saitomizuki111
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dominayo">
         <img src="https://avatars.githubusercontent.com/u/135840180?v=4" width="50" />
@@ -83,6 +90,7 @@
         Emma-watso
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/turtledna">
         <img src="https://avatars.githubusercontent.com/u/129516122?v=4" width="50" />
@@ -90,7 +98,6 @@
         turtledna
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pengads001">
         <img src="https://avatars.githubusercontent.com/u/129487723?v=4" width="50" />
@@ -119,6 +126,7 @@
         SecretariatV
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Catharsis13">
         <img src="https://avatars.githubusercontent.com/u/128057998?v=4" width="50" />
@@ -126,7 +134,6 @@
         Catharsis13
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/coda-coda-23">
         <img src="https://avatars.githubusercontent.com/u/127691294?v=4" width="50" />
@@ -155,6 +162,7 @@
         Zqfd
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AmarMijgar1">
         <img src="https://avatars.githubusercontent.com/u/126850384?v=4" width="50" />
@@ -162,19 +170,11 @@
         AmarMijgar1
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/adaptive-beaver">
         <img src="https://avatars.githubusercontent.com/u/126261483?v=4" width="50" />
         <br />
         adaptive-beaver
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/amx122">
-        <img src="https://avatars.githubusercontent.com/u/125684761?v=4" width="50" />
-        <br />
-        amx122
       </a>
     </td>
     <td width="150" align="center">
