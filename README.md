@@ -257,10 +257,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Hornet-Developer">
+      <a href="https://github.com/git0802">
         <img src="https://avatars.githubusercontent.com/u/122684121?v=4" width="50" />
         <br />
-        Hornet-Developer
+        git0802
       </a>
     </td>
     <td width="150" align="center">
