@@ -15,7 +15,7 @@
 | Md Humair Raza | Java Backend Developer 
 || Spring Boot || MYSQL || AWS || JS | [https://mdhumairraza.github.io/](https://https://mdhumairraza.github.io/) | Patna, Bihar | - |
 
-## Followers <kbd>335</kbd>
+## Followers <kbd>336</kbd>
 
 <table>
   <tr>
@@ -2324,6 +2324,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/Rafaelmdcarneiro">
+        <img src="https://avatars.githubusercontent.com/u/20961091?v=4" width="50" />
+        <br />
+        Rafaelmdcarneiro
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/itxDeeni">
         <img src="https://avatars.githubusercontent.com/u/20259753?v=4" width="50" />
         <br />
@@ -2351,6 +2358,7 @@
         patevs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/alxkm">
         <img src="https://avatars.githubusercontent.com/u/19151554?v=4" width="50" />
@@ -2358,7 +2366,6 @@
         alxkm
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/motloch">
         <img src="https://avatars.githubusercontent.com/u/18506389?v=4" width="50" />
@@ -2387,6 +2394,7 @@
         MihalczGabor
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/iturbides">
         <img src="https://avatars.githubusercontent.com/u/6896948?v=4" width="50" />
@@ -2394,7 +2402,6 @@
         iturbides
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" width="50" />
@@ -2423,12 +2430,21 @@
         brettkromkamp
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" width="50" />
         <br />
         esin
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
@@ -3258,10 +3274,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/getintorj">
+      <a href="https://github.com/jrohitofficial">
         <img src="https://avatars.githubusercontent.com/u/84499372?v=4" width="50" />
         <br />
-        getintorj
+        jrohitofficial
       </a>
     </td>
   </tr><tr>
