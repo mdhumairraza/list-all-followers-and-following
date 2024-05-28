@@ -3282,10 +3282,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/itsme-Subid">
+      <a href="https://github.com/devsubid">
         <img src="https://avatars.githubusercontent.com/u/85873704?v=4" width="50" />
         <br />
-        itsme-Subid
+        devsubid
       </a>
     </td>
     <td width="150" align="center">
