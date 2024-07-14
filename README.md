@@ -300,10 +300,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/yaglewad-onkar">
+      <a href="https://github.com/suchlanahi">
         <img src="https://avatars.githubusercontent.com/u/121476278?v=4" width="50" />
         <br />
-        yaglewad-onkar
+        suchlanahi
       </a>
     </td>
   </tr><tr>
@@ -3949,10 +3949,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/yaglewad-onkar">
+      <a href="https://github.com/suchlanahi">
         <img src="https://avatars.githubusercontent.com/u/121476278?v=4" width="50" />
         <br />
-        yaglewad-onkar
+        suchlanahi
       </a>
     </td>
     <td width="150" align="center">
