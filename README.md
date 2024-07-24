@@ -300,10 +300,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/suchlanahi">
+      <a href="https://github.com/once-human">
         <img src="https://avatars.githubusercontent.com/u/121476278?v=4" width="50" />
         <br />
-        suchlanahi
+        once-human
       </a>
     </td>
   </tr><tr>
@@ -3944,10 +3944,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/suchlanahi">
+      <a href="https://github.com/once-human">
         <img src="https://avatars.githubusercontent.com/u/121476278?v=4" width="50" />
         <br />
-        suchlanahi
+        once-human
       </a>
     </td>
     <td width="150" align="center">
