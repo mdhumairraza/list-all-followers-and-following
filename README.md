@@ -3947,10 +3947,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/laplandlearner">
+      <a href="https://github.com/thehigherbounce">
         <img src="https://avatars.githubusercontent.com/u/123004164?v=4" width="50" />
         <br />
-        laplandlearner
+        thehigherbounce
       </a>
     </td>
     <td width="150" align="center">
