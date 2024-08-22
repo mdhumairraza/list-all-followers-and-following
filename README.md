@@ -387,10 +387,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/kozyol">
+      <a href="https://github.com/Kourva">
         <img src="https://avatars.githubusercontent.com/u/118578799?v=4" width="50" />
         <br />
-        kozyol
+        Kourva
       </a>
     </td>
     <td width="150" align="center">
