@@ -2413,7 +2413,7 @@
   </tr>
 </table>
 
-## Following <kbd>221</kbd>
+## Following <kbd>220</kbd>
 
 <table>
   <tr>
@@ -3908,13 +3908,6 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/core116">
-        <img src="https://avatars.githubusercontent.com/u/120689599?v=4" width="50" />
-        <br />
-        core116
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/SaraKhamisMostafa">
         <img src="https://avatars.githubusercontent.com/u/120996428?v=4" width="50" />
         <br />
@@ -3928,7 +3921,6 @@
         raffaveloso
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wisamosman">
         <img src="https://avatars.githubusercontent.com/u/121224893?v=4" width="50" />
@@ -3936,6 +3928,7 @@
         wisamosman
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/once-human">
         <img src="https://avatars.githubusercontent.com/u/121476278?v=4" width="50" />
@@ -3964,7 +3957,6 @@
         speedspeedo
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/diorfunn">
         <img src="https://avatars.githubusercontent.com/u/122550151?v=4" width="50" />
@@ -3972,6 +3964,7 @@
         diorfunn
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/thehigherbounce">
         <img src="https://avatars.githubusercontent.com/u/123004164?v=4" width="50" />
@@ -4000,21 +3993,12 @@
         mahedialikhorjiya
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/turtledna">
         <img src="https://avatars.githubusercontent.com/u/129516122?v=4" width="50" />
         <br />
         turtledna
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
