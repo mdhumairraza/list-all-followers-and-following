@@ -279,10 +279,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/DannyMay9082">
+      <a href="https://github.com/superdev9082">
         <img src="https://avatars.githubusercontent.com/u/122127665?v=4" width="50" />
         <br />
-        DannyMay9082
+        superdev9082
       </a>
     </td>
     <td width="150" align="center">
