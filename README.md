@@ -27,10 +27,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/VictorRaynor">
+      <a href="https://github.com/KKK0525">
         <img src="https://avatars.githubusercontent.com/u/177327830?v=4" width="50" />
         <br />
-        VictorRaynor
+        KKK0525
       </a>
     </td>
     <td width="150" align="center">
@@ -2223,10 +2223,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/zero-a-projects">
+      <a href="https://github.com/xanderwang312">
         <img src="https://avatars.githubusercontent.com/u/31821124?v=4" width="50" />
         <br />
-        zero-a-projects
+        xanderwang312
       </a>
     </td>
     <td width="150" align="center">
@@ -2800,10 +2800,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/zero-a-projects">
+      <a href="https://github.com/xanderwang312">
         <img src="https://avatars.githubusercontent.com/u/31821124?v=4" width="50" />
         <br />
-        zero-a-projects
+        xanderwang312
       </a>
     </td>
     <td width="150" align="center">
