@@ -27,10 +27,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/KKK0525">
+      <a href="https://github.com/VictorRaynor">
         <img src="https://avatars.githubusercontent.com/u/177327830?v=4" width="50" />
         <br />
-        KKK0525
+        VictorRaynor
       </a>
     </td>
     <td width="150" align="center">
