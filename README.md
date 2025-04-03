@@ -2387,7 +2387,7 @@
   </tr>
 </table>
 
-## Following <kbd>219</kbd>
+## Following <kbd>218</kbd>
 
 <table>
   <tr>
@@ -3832,13 +3832,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/decoderwhoami">
-        <img src="https://avatars.githubusercontent.com/u/116740074?v=4" width="50" />
-        <br />
-        decoderwhoami
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/AbdusSattar-70">
         <img src="https://avatars.githubusercontent.com/u/118761303?v=4" width="50" />
         <br />
@@ -3866,7 +3859,6 @@
         NikitosMM
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Aneal07">
         <img src="https://avatars.githubusercontent.com/u/120375605?v=4" width="50" />
@@ -3874,6 +3866,7 @@
         Aneal07
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SaraKhamisMostafa">
         <img src="https://avatars.githubusercontent.com/u/120996428?v=4" width="50" />
@@ -3902,7 +3895,6 @@
         once-human
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Abhiram-Mithur">
         <img src="https://avatars.githubusercontent.com/u/121729021?v=4" width="50" />
@@ -3910,6 +3902,7 @@
         Abhiram-Mithur
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/vishalkrishna8">
         <img src="https://avatars.githubusercontent.com/u/121739011?v=4" width="50" />
@@ -3938,7 +3931,6 @@
         thehigherbounce
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Vasilbr">
         <img src="https://avatars.githubusercontent.com/u/123585287?v=4" width="50" />
@@ -3946,6 +3938,7 @@
         Vasilbr
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/khalilhasan23">
         <img src="https://avatars.githubusercontent.com/u/124161031?v=4" width="50" />
@@ -3966,6 +3959,8 @@
         <br />
         turtledna
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
