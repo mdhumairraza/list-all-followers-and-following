@@ -1827,10 +1827,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Abhijeet-abhi">
+      <a href="https://github.com/abhijeet-ojha-dev">
         <img src="https://avatars.githubusercontent.com/u/69115064?v=4" width="50" />
         <br />
-        Abhijeet-abhi
+        abhijeet-ojha-dev
       </a>
     </td>
     <td width="150" align="center">
