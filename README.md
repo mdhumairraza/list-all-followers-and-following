@@ -70,10 +70,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/omar-sh7770">
+      <a href="https://github.com/benjamin-ws7770">
         <img src="https://avatars.githubusercontent.com/u/159745579?v=4" width="50" />
         <br />
-        omar-sh7770
+        benjamin-ws7770
       </a>
     </td>
     <td width="150" align="center">
