@@ -1812,10 +1812,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Huniko519">
+      <a href="https://github.com/devcrafta">
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" width="50" />
         <br />
-        Huniko519
+        devcrafta
       </a>
     </td>
   </tr><tr>
@@ -3006,10 +3006,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/Huniko519">
+      <a href="https://github.com/devcrafta">
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" width="50" />
         <br />
-        Huniko519
+        devcrafta
       </a>
     </td>
     <td width="150" align="center">
