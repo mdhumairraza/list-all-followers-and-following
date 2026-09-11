@@ -20,13 +20,6 @@
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://github.com/journaltraces">
-        <img src="https://avatars.githubusercontent.com/u/316382256?v=4" width="50" />
-        <br />
-        journaltraces
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/sphinxzerd">
         <img src="https://avatars.githubusercontent.com/u/228416926?v=4" width="50" />
         <br />
@@ -38,6 +31,13 @@
         <img src="https://avatars.githubusercontent.com/u/220242888?v=4" width="50" />
         <br />
         uhsr
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/buraksocial">
+        <img src="https://avatars.githubusercontent.com/u/215418076?v=4" width="50" />
+        <br />
+        buraksocial
       </a>
     </td>
     <td width="150" align="center">
